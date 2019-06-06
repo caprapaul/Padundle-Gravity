@@ -1,0 +1,15 @@
+{
+    "name": "LSD.Rotation",
+    "references": [
+        "LSD.Movement",
+        "LSD.UpdateManager"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

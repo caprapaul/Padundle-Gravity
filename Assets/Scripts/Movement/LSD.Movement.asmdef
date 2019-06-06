@@ -1,0 +1,15 @@
+{
+    "name": "LSD.Movement",
+    "references": [
+        "LSD.UpdateManager",
+        "LSD.Events"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
